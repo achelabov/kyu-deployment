@@ -1,0 +1,1 @@
+import{a as t}from"/build/_shared/chunk-MGQ57324.js";import{a as l}from"/build/_shared/chunk-TANAHWHW.js";import{e as a}from"/build/_shared/chunk-ADMCF34Z.js";var e=a(l(),1);function m({children:n,fallback:r=null}){return t()?e.createElement(e.Fragment,null,n()):e.createElement(e.Fragment,null,r)}export{m as a};

@@ -1,8 +1,8 @@
 # Зависимости
-node_modules/
+# node_modules/
 
 # Собранные файлы
-build/
+# build/
 
 # Локальные файлы конфигурации
 fly_import_env.js
