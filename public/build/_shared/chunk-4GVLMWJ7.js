@@ -1,1 +1,0 @@
-import{c as e}from"/build/_shared/chunk-HAINM4MF.js";import{b as s}from"/build/_shared/chunk-TANAHWHW.js";import{e as o}from"/build/_shared/chunk-ADMCF34Z.js";var a=o(s()),p=()=>(0,a.jsxs)("div",{className:"flex justify-center pt-10",children:[(0,a.jsx)(e,{}),(0,a.jsx)("span",{className:"sr-only",children:"Loading..."})]}),i=p;export{i as a};
