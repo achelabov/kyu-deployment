@@ -1,12 +1,12 @@
-echo 'changing assets and translations...'
+echo 'changing app...'
 
-# change assets and translations
-docker exec -it selfhosting-swetrix-1 /bin/sh -c 'rm -rf /app/public'   
-docker cp public selfhosting-swetrix-1:/app
+# change app
+docker exec -it kyu-deployment-kyu-analytics-frontend-1 /bin/sh -c 'rm -rf /app'   
+docker cp app kyu-deployment-kyu-analytics-frontend-1:/app
 
 # rebuild and run
-docker exec -it selfhosting-swetrix-1 /bin/sh -c 'npm run build'
-docker exec -it selfhosting-swetrix-1 /bin/sh -c 'npm run start'
+docker exec -it kyu-deployment-kyu-analytics-frontend-1 /bin/sh -c 'npm run build'
+docker exec -it kyu-deployment-kyu-analytics-frontend-1 /bin/sh -c 'npm run start'
 
 echo 'changins successed'
 

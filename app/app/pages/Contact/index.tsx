@@ -59,8 +59,8 @@ const Contact = (): JSX.Element => {
           />
         </div>
         <div className='mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:col-span-2 lg:gap-8'>
-          <Panel href={DOCS_URL} title={t('contact.docs.title')} description={t('contact.docs.desc')} />
-          <Panel href={BOOK_A_CALL_URL} title={t('contact.demo.title')} description={t('contact.demo.desc')} />
+          {/* <Panel href={DOCS_URL} title={t('contact.docs.title')} description={t('contact.docs.desc')} /> */}
+          {/* <Panel href={BOOK_A_CALL_URL} title={t('contact.demo.title')} description={t('contact.demo.desc')} /> */}
         </div>
       </div>
     </div>

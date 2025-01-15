@@ -344,7 +344,7 @@ export const TWITTER_URL: string = 'https://twitter.com/intent/user?screen_name=
 export const TWITTER_USERNAME: string = '@swetrix'
 export const DISCORD_URL: string = 'https://discord.gg/ZVK8Tw2E8j'
 export const STATUSPAGE_URL: string = 'https://stats.uptimerobot.com/33rvmiXXEz'
-export const MAIN_URL: string = 'https://swetrix.com'
+export const MAIN_URL: string = 'https://knowyouruser.ru'
 export const REF_URL_PREFIX: string = `${MAIN_URL}/ref/`
 export const UTM_GENERATOR_URL: string = 'https://url.swetrix.com'
 export const LIVE_DEMO_URL: string = '/projects/STEzHcB1rALV'

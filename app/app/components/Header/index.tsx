@@ -670,7 +670,7 @@ const NotAuthedHeader = ({
             {!refPage && (
               <div className='ml-10 hidden items-center gap-4 space-x-1 lg:flex'>
                 {!isSelfhosted && <SolutionsMenu />}
-                {isSelfhosted ? (
+                {/* {isSelfhosted ? (
                   <a
                     href={`https://swetrix.com${routes.blog}`}
                     target='_blank'
@@ -695,15 +695,15 @@ const NotAuthedHeader = ({
                   >
                     {t('common.pricing')}
                   </Link>
-                )}
+                )} */}
                 <a
-                  href={DOCS_URL}
-                  className='text-base font-semibold leading-6 text-slate-800 hover:text-slate-700 dark:text-slate-200 dark:hover:text-white'
-                  target='_blank'
-                  rel='noreferrer noopener'
+                  // href={DOCS_URL}
+                  // className='text-base font-semibold leading-6 text-slate-800 hover:text-slate-700 dark:text-slate-200 dark:hover:text-white'
+                  // target='_blank'
+                  // rel='noreferrer noopener'
                 >
                   {/* <DocumentTextIcon className='w-5 h-5 mr-1' /> */}
-                  {t('common.docs')}
+                  {/* {t('common.docs')} */}
                 </a>
               </div>
             )}
