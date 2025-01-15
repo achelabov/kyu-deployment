@@ -20,7 +20,7 @@ services:
     restart: always
     container_name: swetrix-api
     ports:
-      - '8080:5005'
+      - '8000:5005'
     environment:
       # Configurable with .env file
       - JWT_ACCESS_TOKEN_SECRET=${JWT_ACCESS_TOKEN_SECRET}
