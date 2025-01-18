@@ -937,7 +937,7 @@
     },
     "waitingError": {
       "title": "Waiting for your first error.. hopefully not :)",
-      "desc": "We're waiting for your first error event! If your integration is set up correctly, you should see it within 1 minute when it happens.\n<howto>Click here</howto> to learn how to set up error tracking for your website."
+      "desc": "We're waiting for your first error event! If your integration is set up correctly, you should see it within 1 minute when it happens."
     },
     "trendlineTotal": "Tendance des pages vues",
     "noEvContent": "Aucun événement n'a été capturé pour la période spécifiée.\nSi vous n'avez pas encore suivi d'événements, vous pouvez consulter notre <url>Documentation</url> pour intégrer facilement le suivi dans votre application.",

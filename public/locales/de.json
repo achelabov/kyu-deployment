@@ -937,7 +937,7 @@
     },
     "waitingError": {
       "title": "Warte auf Ihren ersten Fehler... hoffentlich nicht :)",
-      "desc": "Wir warten auf dein erstes Fehler-Ereigniss! Wenn deine Integration korrekt eingerichtet ist, solltest du sie innerhalb einer Minute sehen, wenn dies geschieht.\n<howto>Klicken Sie hier</howto> um zu erfahren, wie Sie Fehlerverfolgung für Ihre Website einrichten."
+      "desc": "Wir warten auf dein erstes Fehler-Ereigniss! Wenn deine Integration korrekt eingerichtet ist, solltest du sie innerhalb einer Minute sehen, wenn dies geschieht."
     },
     "trendlineTotal": "Seitenansichten Trendlinie",
     "noEvContent": "Für den angegebenen Zeitraum wurden keine Ereignisse erfasst. Bitte versuchen Sie einen anderen Zeitraum.",
